@@ -1,7 +1,8 @@
 import requests
 from twilio.rest import Client
 
-#so when i erased my laptop i deleted the api_key unfortunately.
+# So when i erased my laptop i deleted the api_key unfortunately
+# I forgot to back it Up, i am not even sure if it still works or the API key is invalid
 
 
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/forecast"
@@ -9,6 +10,7 @@ api_key = "__YOUR_OWM_API_KEY__"
 account_sid = "__YOUR_TWILIO_ACCOUNT_ID__"
 auth_token = "__YOUR_TWILIO_AUTH_TOKEN__"
 
+# Location : Covenant University.
 weather_params = {
     "lat": 46.947975,
     "lon": 7.447447,
