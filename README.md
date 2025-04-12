@@ -1,11 +1,5 @@
 # weather_checker_1
-Ah got it! Here’s the complete README.md file, ready for you to copy and paste as-is:
-
-⸻
-
-
-
-# ☁️ Rain Alert Script with OpenWeatherMap and Twilio
+## ☁️ Rain Alert Script with OpenWeatherMap and Twilio
 
 This Python script checks the weather forecast using the OpenWeatherMap API and sends you an SMS alert via Twilio if it's expected to rain.
 
@@ -33,9 +27,9 @@ pip install requests twilio
 
 ⸻
 
-🔐 API Keys Required
+##🔐 API Keys Required
 
-You’ll need the following to get started:
+### You’ll need the following to get started:
 	- 🌦 A OpenWeatherMap API Key: https://openweathermap.org/api
 	- 📞 A Twilio Account SID and Auth Token: https://www.twilio.com/
 Replace the placeholders in rain_alert.py:
