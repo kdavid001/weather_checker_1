@@ -24,15 +24,14 @@ Install the required libraries with:
 pip install requests twilio
 ```
 
-
 ⸻
 
 🔐 API Keys Required
 
 You’ll need the following to get started:
 
-	• 🌦 A OpenWeatherMap API Key: https://openweathermap.org/api
-	• 📞 A Twilio Account SID and Auth Token: https://www.twilio.com/
+	•	🌦 A OpenWeatherMap API Key: https://openweathermap.org/api
+	•	📞 A Twilio Account SID and Auth Token: https://www.twilio.com/
  
 Replace the placeholders in rain_alert.py:
 
